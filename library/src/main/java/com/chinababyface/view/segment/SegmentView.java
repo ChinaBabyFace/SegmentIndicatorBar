@@ -1,7 +1,7 @@
 package com.chinababyface.view.segment;
 
 /**
- * @author renyuxiang
+ * @author ChinaBabyFace
  * 
  */
 public class SegmentView {
